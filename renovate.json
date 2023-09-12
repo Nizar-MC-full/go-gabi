@@ -14,7 +14,7 @@
 
   "packageRules": [
     {
-		"datasources": ["maven", "npm", "pypi", "nuget", "rubygems", "sbt-package", "GoLang"],
+		"datasources": ["maven", "npm", "pypi", "nuget", "rubygems", "sbt-package", "gomod"],
 		"updateTypes": ["patch", "minor", "major"],
 		"prBodyColumns": ["Package", "Change", "Age", "Adoption", "Passing", "Confidence"]
 	}
