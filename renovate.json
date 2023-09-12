@@ -17,5 +17,5 @@
 		"datasources": ["maven", "npm", "pypi", "nuget", "rubygems", "sbt-package", "go"],
 		"updateTypes": ["patch", "minor", "major"],
 		"prBodyColumns": ["Package", "Change", "Age", "Adoption", "Passing", "Confidence"]
-	},
+	}
 }
